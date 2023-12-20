@@ -1,6 +1,13 @@
-body {
-  font-family: 'Roboto';, 'Raleway';,
+body { 
+ font-family: 'Roboto';, 'Raleway';,
     sans-serif
+  background-color: #FFF;
+  color: #434455;
 }
-
+a {
+  text-decoration: none;
+}
+ul, ol {
+  list-style-type: none;
+}
 
